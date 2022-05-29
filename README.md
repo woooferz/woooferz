@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hello, I'm @woooferz
+- he/him pronouns
+- I enjoy programming on my free time.
+- Contact Email: `wooferz.contact@gmail.com`
+- Dogs are cool! 😎
+
+<!---
+woooferz/woooferz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 <!--
 **woooferz/woooferz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
