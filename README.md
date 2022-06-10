@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Wooferz </h1>
 <h3 align="center">I am a passionate developer from Australia</h3>
 
+
+
 ![woooferz](https://komarev.com/ghpvc/?username=woooferz&label=Profile%20views&color=0e75b6&style=for-the-badge)
 ![My Websites Uptime](https://up.staffle.us/api/badge/5/uptime/24h?style=for-the-badge&label=My%20Websites%20Uptime%2024&color=blue)
 ![Waffles are yum](https://img.shields.io/badge/Waffles-Yum-blue?style=for-the-badge)
@@ -17,7 +19,11 @@
 
 - 🔗 My Website **https://wooferz.dev**
 
-<h3 align="left">Some socials:</h3>
+- My Socials: **https://me.wooferz.dev**
+
+[![skarf](https://github-readme-stats.vercel.app/api/pin/?username=woooferz&repo=skarf)](https://github.com/woooferz/skarf)
+
+### Some socials:
 <p align="left">
 <a href="https://dev.to/woooferz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="woooferz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16270729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16270729" height="30" width="40" /></a>
