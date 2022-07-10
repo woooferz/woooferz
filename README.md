@@ -21,7 +21,7 @@
 
 - My Socials: **https://me.wooferz.dev**
 
-[![skarf](https://github-readme-stats.vercel.app/api/pin/?username=woooferz&repo=skarf)](https://github.com/woooferz/skarf)
+[![skarf](https://github-readme-stats.vercel.app/api/pin/?username=woooferz&repo=skarf&theme=cobalt)](https://github.com/woooferz/skarf)
 
 ### Some socials:
 <p align="left">
@@ -30,7 +30,7 @@
 <a href="https://discord.gg/VnskbWb4Ft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VnskbWb4Ft" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=woooferz&show_icons=true&locale=en&layout=compact" alt="woooferz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=woooferz&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="woooferz" /></p>
 
 
 <!---
