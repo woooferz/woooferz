@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Wooferz </h1>
 <h3 align="center">I am a passionate developer from Australia</h3>
 
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R4DQE1M)
 
 ![woooferz](https://komarev.com/ghpvc/?username=woooferz&label=Profile%20views&color=0e75b6&style=for-the-badge)
 ![My Websites Uptime](https://up.staffle.us/api/badge/5/uptime/24h?style=for-the-badge&label=My%20Websites%20Uptime%2024&color=blue)
