@@ -21,10 +21,13 @@
 
 - My Socials: **https://me.wooferz.dev**
 
+
 ## Notable Project(s)
 [![skarf](https://github-readme-stats.vercel.app/api/pin/?username=woooferz&repo=skarf&theme=cobalt)](https://github.com/woooferz/skarf)
 
 ## Cool Stats
+
+![General Me Stats](/github-metrics.svg)
 
 ![most used langs](https://github-readme-stats.vercel.app/api/top-langs?username=woooferz&show_icons=true&locale=en&layout=compact&theme=cobalt)
 
