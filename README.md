@@ -22,15 +22,18 @@
 
 
 ## Notable Project(s)
-[![skarf](https://github-readme-stats.vercel.app/api/pin/?username=woooferz&repo=skarf&theme=cobalt)](https://github.com/woooferz/skarf)
+[![skarf](https://github-readme-stats.vercel.app/api/pin/?username=woooferz&repo=skarf&theme=tokyonight)](https://github.com/woooferz/skarf)
 
 ## Cool Stats
 
+<!--
 ![General Me Stats](/github-metrics.svg)
+-->
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=formidablae&include_all_commits=true&hide_border=true&theme=tokyonight)
 
-![most used langs](https://github-readme-stats.vercel.app/api/top-langs?username=woooferz&show_icons=true&locale=en&layout=compact&theme=cobalt)
+![most used langs](https://github-readme-stats.vercel.app/api/top-langs?username=woooferz&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
-![github rank](https://github-readme-stats.vercel.app/api?username=woooferz&count_private=true&theme=cobalt&show_icons=true)
+![github rank](https://github-readme-stats.vercel.app/api?username=woooferz&count_private=true&theme=tokyonight&show_icons=true)
 
 <!---
 woooferz/woooferz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
