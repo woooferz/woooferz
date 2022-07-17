@@ -21,17 +21,14 @@
 
 - My Socials: **https://me.wooferz.dev**
 
+## Notable Project(s)
 [![skarf](https://github-readme-stats.vercel.app/api/pin/?username=woooferz&repo=skarf&theme=cobalt)](https://github.com/woooferz/skarf)
 
-### Some socials:
-<p align="left">
-<a href="https://dev.to/woooferz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="woooferz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16270729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16270729" height="30" width="40" /></a>
-<a href="https://discord.gg/VnskbWb4Ft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VnskbWb4Ft" height="30" width="40" /></a>
-</p>
+## Cool Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=woooferz&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="woooferz" /></p>
+![most used langs](https://github-readme-stats.vercel.app/api/top-langs?username=woooferz&show_icons=true&locale=en&layout=compact&theme=cobalt)
 
+![github rank](https://github-readme-stats.vercel.app/api?username=woooferz&count_private=true&theme=cobalt&show_icons=true)
 
 <!---
 woooferz/woooferz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
