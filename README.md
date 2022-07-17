@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Wooferz </h1>
-<h3 align="center">I am a passionate developer from Australia</h3>
+![Waving Header](https://capsule-render.vercel.app/api?type=waving&color=0:25bccc,100:6e18eb&text=Wooferz&fontColor=FFFFFF&fontSize=65&animation=fadeIn&fontAlignY=38&height=300&desc=Passionate%20developer%20from%20Australia%20%F0%9F%87%A6%F0%9F%87%BA)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R4DQE1M)
 
