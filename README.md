@@ -3,7 +3,7 @@
 ![woooferz](https://komarev.com/ghpvc/?username=woooferz&label=Profile%20views&color=0e75b6&style=for-the-badge)
 [![ko-fi](https://img.shields.io/badge/Ko--Fi-%23161616.svg?style=for-the-badge&logo=kofi&color=orange&logoColor=white)](https://ko-fi.com/R5R4DQE1M)
 
-Hi! I'm Wooferz I code stuff, I love to eat waffles, and I'm from Australia! You can find my website [here](https://wooferz.dev), and my socials [here](https://me.wooferz.dev). You can email me at `wooferz.contact@gmail.com` for whatever purpose.
+Hi! I'm Wooferz I code stuff, I love to eat waffles, and I'm from Australia! You can find my website [here](https://wooferz.dev), and my socials [here](https://me.wooferz.dev). You can email me at `contact@wooferz.dev` for whatever purpose.
 
 ## Notable Project(s)
 
