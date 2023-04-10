@@ -1,4 +1,5 @@
-![Waving Header]([https://capsule-render.vercel.app/api?type=waving&color=0:25bccc,100:6e18eb&text=Wooferz&fontColor=FFFFFF&fontSize=65&animation=fadeIn&fontAlignY=38&height=300&desc=Passionate%20developer%20from%20Australia%20%F0%9F%87%A6%F0%9F%87%BA](https://capsule-render.vercel.app/api?type=waving&color=0:25bccc,100:6e18eb&text=Wooferz&fontColor=FFFFFF&fontSize=65&animation=fadeIn&fontAlignY=38&height=300&desc=A%20developer%20from%20Australia))
+![Waving Header](https://capsule-render.vercel.app/api?type=waving&color=0:25bccc,100:6e18eb&text=Wooferz&fontColor=FFFFFF&fontSize=65&animation=fadeIn&fontAlignY=38&height=300&desc=A%20developer%20from%20Australia)
+
 
 ![woooferz](https://komarev.com/ghpvc/?username=woooferz&label=Profile%20views&color=0e75b6&style=for-the-badge)
 [![ko-fi](https://img.shields.io/badge/Ko--Fi-%23161616.svg?style=for-the-badge&logo=kofi&color=orange&logoColor=white)](https://ko-fi.com/R5R4DQE1M)
