@@ -17,7 +17,7 @@ Hi! I'm Wooferz I code stuff, I love to eat waffles, and I'm from Australia! You
 <!--
 ![General Me Stats](/github-metrics.svg)
 -->
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=formidablae&include_all_commits=true&hide_border=true&theme=tokyonight)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=woooferz&include_all_commits=true&hide_border=true&theme=tokyonight)
 
 ![github rank](https://github-readme-stats.vercel.app/api?username=woooferz&count_private=true&theme=tokyonight&show_icons=true&hide_border=true)
 
